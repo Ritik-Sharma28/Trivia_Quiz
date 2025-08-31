@@ -12,10 +12,6 @@ export default function StartScreen({Difficulty , setDifficulty , SelectedCatego
       "name": "Entertainment: Music"
     },
     {
-      "id": 14,
-      "name": "Entertainment: Television"
-    },
-    {
       "id": 15,
       "name": "Entertainment: Video Games"
     },
@@ -26,10 +22,6 @@ export default function StartScreen({Difficulty , setDifficulty , SelectedCatego
     {
       "id": 18,
       "name": "Science: Computers"
-    },
-    {
-      "id": 21,
-      "name": "Sports"
     },
     {
       "id": 22,
@@ -47,10 +39,7 @@ export default function StartScreen({Difficulty , setDifficulty , SelectedCatego
       "id": 28,
       "name": "Vehicles"
     },
-    {
-      "id": 29,
-      "name": "Entertainment: Comics"
-    },
+   
   ]
 
     function difficultyClick(e) {
